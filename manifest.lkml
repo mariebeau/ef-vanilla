@@ -1,7 +1,7 @@
 # project_name: "helloworld_basic"
 
 application: helloworld_basic {
-  label: "Helloworld Extension"
+  label: "helloworld_basic"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
   entitlements: {
